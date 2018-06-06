@@ -81,6 +81,10 @@ i {
 .submitbtn {
 	margin-top: 10px;
 }
+#googlemap {
+	border: none;
+	width: 100%;
+}
 
 @media screen and (max-width: 768px) {
 .hero_section > img {
